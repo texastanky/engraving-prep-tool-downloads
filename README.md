@@ -11,6 +11,7 @@ way to get a build — there are no build folders in the tree.
 
 | Release | Notes |
 | --- | --- |
+| cv-v0.1.0-beta.5 | Measured recipe library v2 (included in the zip), opens in millimetres, 5000 lines/cm hatch, no built-in colours, cleanup no longer blackens mid-tones. |
 | cv-v0.1.0-beta.4 | Colour picker: layer colours come from measured swatches. Library ships empty until a plate readsheet is imported. |
 | cv-v0.1.0-beta.2 | Recipes inside the measured window, caveat on every settings sheet. |
 | cv-v0.1.0-beta.1 | First public beta. |
